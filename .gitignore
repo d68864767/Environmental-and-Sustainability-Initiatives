@@ -1,0 +1,61 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.so
+*.ipynb
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+*.sqlite
+
+# Directories
+bin/
+include/
+lib/
+lib64/
+share/
+man/
+Scripts/
+pyvenv.cfg
+pip-selfcheck.json
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*.swn
+*.bak
+*.bak2
+*.bak3
+*.tmp
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Test files
+tests/__pycache__/
+
+# Documentation files
+docs/__pycache__/
+
+# Other
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.zip
